@@ -1,7 +1,7 @@
 
 # OrangeHRM Test Automation Framework - Callum Mander
 
-<h2> Objective
+<h4> Objective
 
 This repository contains a strcutured test automation framework developped to execute an end-to-end test scenario within OrangeHRM live demo site. The framework is designed to evaluate core functional flows - specifically navigating to and searching within the Leave section, while demonstrating modern automation best practises.
 
